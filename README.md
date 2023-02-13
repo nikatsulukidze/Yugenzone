@@ -1,1 +1,1 @@
-https://github.com/nikatsulukidze/Yugenzone.git
+https://nikatsulukidze.github.io/Yugenzone/
